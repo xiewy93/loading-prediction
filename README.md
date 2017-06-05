@@ -1,4 +1,4 @@
 # README #
 
-This is a project for explor some new functions
+This is a project for electricity loading prediction
 
