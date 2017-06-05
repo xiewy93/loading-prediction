@@ -1,0 +1,7 @@
+【1】VAR model in StatsModels by Python
+参考资料：http://www.statsmodels.org/stable/vector_ar.html#var
+
+【2】Some examples in Github
+参考资料：1）https://github.com/statsmodels/statsmodels/blob/master/docs/source/vector_ar.rst#id5
+2）
+https://github.com/zhoulinjun1994/stock/tree/ee09e78110d6e0d6c3f329d9da0ee9a6003209fe/env/lib/python2.7/site-packages/statsmodels/tsa/vector_ar
